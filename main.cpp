@@ -5,7 +5,8 @@ using std::cout;
 
 int main()
 {
-    cout<<"Hi, please enter two numbers: ";
+    for(int i = 0; i < 100; i++)
+        cout << "Skynet is coming for you...";
 
     return 0;
 }
